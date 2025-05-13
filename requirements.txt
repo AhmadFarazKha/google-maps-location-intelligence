@@ -1,0 +1,5 @@
+folium
+pandas
+requests
+python-dotenv
+geopy
